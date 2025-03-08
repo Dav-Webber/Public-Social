@@ -20,7 +20,7 @@ We are in the early stages, gathering ideas and contributions from the community
 
 Currently there is no budget for this project (this will change), However **all contributers will be rewarded with a fair distribution of our native token on release.**
 
-💬  **Join the Conversation** – Submit your ideas via GitHub Discussions
+💬  **Join the Conversation** – Submit your ideas via [GitHub Discussions](https://github.com/Dav-Webber/Public-Social/discussions)
 
 📌  **Track Progress** – Check out our Project Board
 
