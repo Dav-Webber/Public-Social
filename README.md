@@ -22,7 +22,7 @@ Currently there is no budget for this project (this will change), However **all 
 
 💬  **Join the Conversation** – Submit your ideas via [GitHub Discussions](https://github.com/Dav-Webber/Public-Social/discussions)
 
-📌  **Track Progress** – Check out our Project Board
+📌  **Track Progress** – Check out our [Project Board](https://github.com/Dav-Webber/Public-Social/projects?query=is%3Aopen)
 
 
 &nbsp; 
